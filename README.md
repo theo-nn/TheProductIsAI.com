@@ -10,7 +10,7 @@ Open `index.html` directly in a browser.
 
 You can also use a simple local server:
 
-```sh
+```bash
 python3 -m http.server 8000
 ```
 
